@@ -25,4 +25,3 @@
 		echo '<div style="margin-left:20px;width:200px;height:200px;background:'.$gradients.';"></div>';
 	echo '</div>';
 
-?>
