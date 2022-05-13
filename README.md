@@ -1,5 +1,5 @@
 # I2G
-I2G is for converting images to gradients It does this by most of the colors used in the photo. So, when you want to use lazy loading, it can show a good preview of the image being loaded.
+I2G is for converting images to gradients. It does this by most of the colors used in the photo. So, when you want to use lazy loading, it can show a good preview of the image being loaded.
 
 
 ## How to use
