@@ -18,7 +18,7 @@ And then you can get the gradient code by calling the get_aa method
 <pre><code>echo '&lt;div style="margin-left:20px;
                   width:200px;
                   height:200px;
-                  background:'. $i2g->get_gradients() .';">&lt;/div>';
+                  background:'. $i2g->getGradients() .';">&lt;/div>';
 </code></pre>
 
 ## Preview
