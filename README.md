@@ -20,3 +20,6 @@ And then you can get the gradient code by calling the get_aa method
                   height:200px;
                   background:'. $i2g->get_gradients() .';">&lt;/div>';
 </code></pre>
+
+## Preview
+[![001.jpg](https://i.postimg.cc/4NV5zQP0/001.jpg)](https://postimg.cc/QHN1D5Rg)
